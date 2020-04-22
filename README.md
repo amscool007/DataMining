@@ -7,7 +7,4 @@ We will be addressing the question that can the number of kills and wounded be p
 
 After the data Preparation, we will now go through the transformation phase .i.e. making our model. We will first use an extra tree classifier that helps in getting what features are to be taken that tells what are the important features that play a part in our research question.
 
-We then implement our model so that we research question can be solved easily. Firstly we use Random forest, Logistic Regression and Support Vector Machines for the research question i.e.
-
-
-correlation between terrorist attacks and weather conditions which is done by merging weather database and terrorist database, Then we go through the second part of the question i.e. understanding significant features which have more effect on the number casualties in the terrorist attacks over the world and implement Random Forest . We plot the ROC curve, get the F1 score and confusion matrix. Using the same question, we predict using logistic regression and SVM and plot the confusion matrix, F1 score.
+We then implement our model so that we research question can be solved easily. Firstly we use Random forest, Logistic Regression and Support Vector Machines for the research question i.e. correlation between terrorist attacks and weather conditions which is done by merging weather database and terrorist database, Then we go through the second part of the question i.e. understanding significant features which have more effect on the number casualties in the terrorist attacks over the world and implement Random Forest . We plot the ROC curve, get the F1 score and confusion matrix. Using the same question, we predict using logistic regression and SVM and plot the confusion matrix, F1 score.
